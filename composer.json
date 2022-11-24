@@ -1,0 +1,12 @@
+{
+    "name": "proffi26/composer",
+    "authors": [
+        {
+            "name": "Proffi26",
+            "email": "proffi26@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}
